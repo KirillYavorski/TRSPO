@@ -1,0 +1,20 @@
+<records>
+    <record>
+        <ID>1</ID>
+        <item_no>1.0</item_no>
+        <description>XML test</description>
+        <price>100</price>
+        <base_qty>50</base_qty>
+        <var_qty>20</var_qty>
+        <base_price_>5000</base_price_>
+    </record>
+    <record>
+        <ID>1</ID>
+        <item_no>1.03</item_no>
+        <description>Test</description>
+        <price>45</price>
+        <base_qty>100</base_qty>
+        <var_qty>4500</var_qty>
+        <base_price_>0</base_price_>
+    </record>
+</records>
